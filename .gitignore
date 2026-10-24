@@ -1,0 +1,19 @@
+/vendor
+/node_modules
+/.env
+/public/hot
+/public/storage
+/storage/*.key
+/storage/*.log
+/cloudinary_config.php
+/smtp_config.php
+/enrollment_smtp_config.php
+/users.json
+/profilepictures/
+/cloudinary_php-master/
+/*_qrcode.png
+
+# Local/editor and generated files
+/.idea/
+/.vscode/
+*.log
